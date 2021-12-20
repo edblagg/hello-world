@@ -8,7 +8,6 @@ from ota_update.main.ota_updater import OTAUpdater
 
  def start():
      # This program prints Hello, world!
-
      print('Hello, world!')
 
 
